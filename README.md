@@ -22,8 +22,8 @@ Step 5: Construct the main program to read the paragraph  and perform text summa
 <H3>Program:</H3>
 
 ```
-DEVELOPED BY: S JAIGANESH
-REGISTER NUMBER: 212222240037
+DEVELOPED BY: SWATHI D
+REGISTER NUMBER: 212222230154
 ```
 
 ```
